@@ -9,7 +9,7 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>Java developer with a passion for [specific area, e.g., microservices, AI]. Love exploring new technologies and contributing to open-source projects.
+    <p>Software developer with a passion for optimizing code performance and improving application efficiency. Love exploring new technologies and contributing to open-source projects.
         Building scalable and efficient applications using SpringBoot or any other fancy stuff. Code is like a good pizza — it’s always better when shared.😜
         Always open to learning and collaborating.Let's connect!</p>
 </div>
