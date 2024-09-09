@@ -1,8 +1,4 @@
-<div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Your Name];This+is..;..my+Github..;" alt="Typing SVG"/>
-    </h1>
-</div>
+
 
 
 
@@ -13,7 +9,9 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a [Your Job Title] specializing in [Your Specialization]. I enjoy [hobbies/interests].</p>
+    <p>Java developer with a passion for [specific area, e.g., microservices, AI]. Love exploring new technologies and contributing to open-source projects.
+        Building scalable and efficient applications using SpringBoot or any other fancy stuff. Code is like a good pizza — it’s always better when shared.😜
+        Always open to learning and collaborating.Let's connect!</p>
 </div>
 
 
