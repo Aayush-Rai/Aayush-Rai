@@ -37,9 +37,9 @@
 <a href="https://github.com/ali-bouali">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali-bouali&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aayush-Rai&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ali-bouali&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ali-bouali&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-bouali&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aayush-Rai&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aayush-Rai&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aayush-Rai&theme=2077" height="180em" />
 </div>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aayush-Rai&theme=dark&background=000000)](https://git.io/streak-stats)
 
