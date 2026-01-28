@@ -36,4 +36,5 @@
 
 ### :fire: My Stats :
 ![Aayush-Rai's Stats](https://github-readme-stats.vercel.app/api?username=Aayush-Rai&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Rai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Aayush-Rai's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aayush-Rai&theme=vue-dark&hide_border=true)
+![Aayush-Rai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Rai&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
