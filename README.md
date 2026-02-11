@@ -35,5 +35,7 @@
 ---
 
 ### :fire: My Stats :
-[![Aayush-Rai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayush-Rai)](https://github.com/Aayush-Rai/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020)
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aayush-Rai's Github Stats" src="https://Aayush-Rai-github-readme-stats.vercel.app/api/?username=Aayush-Rai&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aayush-Rai's Top Languages" src="https://Aayush-Rai-github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Rai&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Aayush-Rai's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Aayush-Rai&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
