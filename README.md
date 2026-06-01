@@ -35,9 +35,9 @@
 ---
 
 ### :fire: My Stats :
-<a href="https://github.com/Pranesh-2005/github-readme-stats">
+<a href="https://github.com/Aayush-Rai/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005" />
 </a>
-<a href="https://github.com/Pranesh-2005/convoychat">
+<a href="https://github.com/Aayush-Rai/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Pranesh-2005&layout=compact&langs_count=8&card_width=320" />
 </a>
